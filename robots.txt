@@ -1,0 +1,4 @@
+Sitemap: https://nikola.fablab-nuernberg.de/sitemapindex.xml
+
+User-Agent: *
+Host: nikola.fablab-nuernberg.de
