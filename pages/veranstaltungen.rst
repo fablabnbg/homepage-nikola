@@ -8,3 +8,5 @@
 .. type: text
 
 TODO: Integration Kalender (Google Calendar oder owncloud ical?)
+
+{{% calendar file=events.ical %}}
