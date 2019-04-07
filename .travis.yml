@@ -3,7 +3,7 @@ cache: apt
 sudo: false
 branches:
   only:
-  - src
+  - master
 python:
 - 3.6
 before_install:
