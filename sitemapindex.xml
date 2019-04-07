@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://nikola.fablab-nuernberg.de/en/rss.xml</loc>
-  <lastmod>2019-04-06T08:14:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://nikola.fablab-nuernberg.de/rss.xml</loc>
-  <lastmod>2019-04-06T08:14:00Z</lastmod>
+  <lastmod>2019-04-07T09:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nikola.fablab-nuernberg.de/sitemap.xml</loc>
-  <lastmod>2019-04-06T08:14:00Z</lastmod>
+  <lastmod>2019-04-07T09:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
