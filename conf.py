@@ -25,7 +25,7 @@ SITE_URL = "https://nikola.fablab-nuernberg.de/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nikola.fablab-nuernberg.de/"
 BLOG_EMAIL = "info@fablab-nuernberg.de"
-BLOG_DESCRIPTION = "Informationen über das Fablab Region Nürnberg"  # (translatable)
+BLOG_DESCRIPTION = "Fablab Region Nürnberg"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -97,7 +97,7 @@ DEFAULT_LANG = "de"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    "en": "./en",
+#   "en": "./en",
 }
 
 # What will translated input files be named like?
@@ -644,7 +644,7 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'src'
+#GITHUB_SOURCE_BRANCH = 'src'
 GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
